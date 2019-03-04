@@ -9,6 +9,7 @@
 {         "countryCode": "KE",          "countryName":  "Kenya", "coordinates": [ -1.36667,  36.83333],          "name": "Nairobi National Park",          "toponymName": "Nairobi National Park"}
 {         "countryCode": "CX",          "countryName":  "Christmas Island", "coordinates": [ -10.48333,  105.65],          "name": "Christmas Island National Park",          "toponymName": "Christmas Island National Park"}
 {         "countryCode": "ZA",          "countryName":  "South Africa", "coordinates": [ -32.33137,  22.50029],          "name": "Karoo National Park",          "toponymName": "Karoo National Park"}
+{         "countryCode": "ZA",          "countryName":  "Italy", "coordinates": [ 41.6868,  12.7785],          "name": "Velletri National Park",          "toponymName": "Velletri National Park"}
 {         "countryCode": "LK",          "countryName":  "Sri Lanka", "coordinates": [ 8.4106,  80.051],          "name": "Wilpattu National Park",          "toponymName": "Wilpattu National Park"}
 {         "countryCode": "AU",          "countryName":  "Australia", "coordinates": [ -27.315,  152.76083],          "name": "D’Aguilar National Park",          "toponymName": "D’Aguilar National Park"}
 {         "countryCode": "BA",          "countryName":  "Bosnia and Herzegovina", "coordinates": [ 45.00833,  16.89167],          "name": "Kozara National Park",          "toponymName": "Kozara National Park"}
